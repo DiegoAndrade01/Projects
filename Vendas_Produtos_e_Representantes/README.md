@@ -40,7 +40,14 @@ Também é importante identificarmos qual a contribuição de cada região para 
 
 Aqui é possível perceber que as regiões (Norte e Oeste) que possuem mais RVs são as que geram maior receita. Não necessariamente isso representa uma relação de causa e efeito, porém seria valida uma análise mais aprofundada para saber o impacto na receita de uma região com a variação do número de representantes que atuam nela. Para isso seria necessário que os dados disponíveis possuissem uma dimensão de tempo.
 
+Para entendermos melhor o comportamento da receita precisamos identificar o impacto de cada produto na receita, conforme pode ser visto pelas barras verdes do gráfico a seguir. A linha laranja representa a quantidade vendida de determinado produto.
+
 <p align="center">
   <img src="comparacaoreceitaeunidadesvendidas.png" >
 </p>
 
+O produto Alpen é o que gera mais receita para a empresa, além disso o seu volume de vendas é o mais alto também. Em contrapartida, o produto Halls é o produto menos vendido e também é o que gera menos receita para a empresa. Já os produtos Galaxy e Milka geram uma receita parecida entre 900 mil e 950 mil porém a quantidade de Milka vendida é um pouco mais que o dobro dos Galaxys, isso se deve ao fato dos produtos possuirem preços diferentes. Sendo assim, vamos identificar o preço médio de cada produto.  
+
+<p align="center">
+  <img src="precomediodosprodutos.png" >
+</p>
