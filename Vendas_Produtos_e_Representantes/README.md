@@ -2,7 +2,7 @@ Escrever aqui
 
 Testando
 
-![](/Imagens/Dados.png)
+![](/imagens/dados.png)
 
 
 Abaixo da figura
