@@ -1,14 +1,15 @@
 # Titulo do Projeto
 
+## 1. Introdução
+
 Escrever descrição
 
 
-## 1. Objetivos
+#### 1.1 Objetivos
 
+Descrever objetivos do projeto
 
-## 2. Análise Exploratória dos Dados
-
-#### 2.1 O Conjunto de dados
+#### 1.2 O Conjunto de dados
 
 A figura abaixo mostra uma parte do conjunto de dados utilizado neste projeto. 
 
@@ -25,6 +26,7 @@ Descrição das colunas:
 
 O conjunto de dados completo possui 10 mil linhas, onde temos 72 Representantes de Vendas (RVs), divididos em 4 regiões, para venderem 12 produtos distintos.
 
+## 2. Análise Exploratória dos Dados
 
 No gráfico abaixo podemos visualizar como estão distribuidos os RVs em cada região. As regiões Norte e Oeste são as que possuem mais representantes.
 
