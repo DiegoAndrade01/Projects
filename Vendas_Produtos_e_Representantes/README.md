@@ -2,7 +2,8 @@ Escrever aqui
 
 Testando
 
-![](Vendas_Produtos_e_Representantes/imagens/dados.png)
-
+<p align="center">
+  <img src="dados.png" >
+</p>
 
 Abaixo da figura
