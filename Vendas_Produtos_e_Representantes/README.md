@@ -2,7 +2,7 @@ Escrever aqui
 
 Testando
 
-![](/imagens/dados.png)
+![](Vendas_Produtos_e_Representantes/imagens/dados.png)
 
 
 Abaixo da figura
