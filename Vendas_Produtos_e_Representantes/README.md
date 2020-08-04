@@ -31,3 +31,9 @@ No gráfico abaixo podemos visualizar como estão distribuidos os RVs em cada re
 <p align="center">
   <img src="numrepresentantesporregiao.png" >
 </p>
+
+Também é importante identificarmos qual a contribuição de cada região para a receita total da empresa conforme mostra o gráfico abaixo.
+
+<p align="center">
+  <img src="receitaporregiao.png" >
+</p>
