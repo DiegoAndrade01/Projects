@@ -23,10 +23,10 @@ Descrição das colunas:
 * **Receita:** Valor em Rúpias Indianas (INR) obtidos na venda
 * **Região:** Zona na qual ocorreu a venda
 
-O conjunto de dados completo possui 10 mil linhas, onde temos 72 Representantes de Vendas, dividos em 4 regiões, para venderem 12 produtos distintos.
+O conjunto de dados completo possui 10 mil linhas, onde temos 72 Representantes de Vendas (RV), divididos em 4 regiões, para venderem 12 produtos distintos.
 
 
-
+No gráfico abaixo podemos visualizar como estão distribuidos os RVs em cada região. As regiões Norte e Oeste são as que possuem mais representantes.
 
 <p align="center">
   <img src="numrepresentantesporregiao.png" >
