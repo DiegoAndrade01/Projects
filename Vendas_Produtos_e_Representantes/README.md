@@ -10,7 +10,7 @@ Escrever descrição
 
 #### 2.1 O Conjunto de dados
 
-A figura abaixo mostra uma parte do conjunto de dados utilizado neste projeto. O conjunto de dados completo possui 10 mil linhas.
+A figura abaixo mostra uma parte do conjunto de dados utilizado neste projeto. 
 
 <p align="center">
   <img src="dados.png" >
@@ -23,4 +23,11 @@ Descrição das colunas:
 * **Receita:** Valor em Rúpias Indianas (INR) obtidos na venda
 * **Região:** Zona na qual ocorreu a venda
 
+O conjunto de dados completo possui 10 mil linhas, onde temos 72 Representantes de Vendas, dividos em 4 regiões, para venderem 12 produtos distintos.
 
+
+
+
+<p align="center">
+  <img src="numrepresentantesporregiao.png" >
+</p>
