@@ -10,7 +10,7 @@ Escrever descrição
 
 #### 2.1 O Conjunto de dados
 
-A figura abaixo mostra uma parte do conjunto de dados utilizado neste projeto. O conjunto de dados completo possui 10 mil colunas.
+A figura abaixo mostra uma parte do conjunto de dados utilizado neste projeto. O conjunto de dados completo possui 10 mil linhas.
 
 <p align="center">
   <img src="dados.png" >
