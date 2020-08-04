@@ -17,10 +17,10 @@ A figura abaixo mostra uma parte do conjunto de dados utilizado neste projeto. O
 </p>
 
 Descrição das colunas:
-* Representantes: informa o nome dos representante de vendas responsável por aquela venda
-* Produto: informa o produto vendido 
-* Quantidade: Unidades do produto vendido
-* Receita: Valor em Rúpias Indianas (INR) obtidos na venda
-* Região: Zona na qual ocorreu a venda
+* **Representantes:** informa o nome dos representante de vendas responsável por aquela venda. 
+* **Produto:** informa o produto vendido 
+* **Quantidade:** Unidades do produto vendido
+* **Receita:** Valor em Rúpias Indianas (INR) obtidos na venda
+* **Região:** Zona na qual ocorreu a venda
 
 
