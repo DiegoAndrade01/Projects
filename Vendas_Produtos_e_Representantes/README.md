@@ -39,3 +39,8 @@ Também é importante identificarmos qual a contribuição de cada região para 
 </p>
 
 Aqui é possível perceber que as regiões (Norte e Oeste) que possuem mais RVs são as que geram maior receita. Não necessariamente isso representa uma relação de causa e efeito, porém seria valida uma análise mais aprofundada para saber o impacto na receita de uma região com a variação do número de representantes que atuam nela. Para isso seria necessário que os dados disponíveis possuissem uma dimensão de tempo.
+
+<p align="center">
+  <img src="comparacaoreceitaeunidadesvendidas.png >
+</p>
+
