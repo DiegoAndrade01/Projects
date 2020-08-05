@@ -48,7 +48,7 @@ Para entendermos melhor o comportamento da receita precisamos identificar o impa
   <img src="comparacaoreceitaeunidadesvendidas.png" >
 </p>
 
-O produto Alpen é o que gera mais receita para a empresa, além disso o seu volume de vendas é o mais alto também. Em contrapartida, o produto Halls é o produto menos vendido e também é o que gera menos receita para a empresa. Já os produtos Galaxy e Milka geram uma receita parecida entre 900 mil e 950 mil porém a quantidade de Milka vendida é um pouco mais que o dobro dos Galaxys, isso se deve ao fato dos produtos possuirem preços diferentes. Sendo assim, vamos identificar o preço médio de cada produto.  
+O produto Alpen é o que gera mais receita para a empresa, além disso o seu volume de vendas é o mais alto também. Em contrapartida, o produto Halls é o produto menos vendido e também é o que gera menos receita para a empresa. Já os produtos Galaxy e Milka geram uma receita parecida entre 900 mil e 950 mil porém a quantidade de Milka vendida é um pouco mais que o dobro dos Galaxys, isso se deve ao fato dos produtos possuirem preços diferentes conforme pode ser visto no gráfico abaixo que exibe o preço médio de cada produto.  
 
 <p align="center">
   <img src="precomediodosprodutos.png" >
