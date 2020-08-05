@@ -53,3 +53,8 @@ O produto Alpen é o que gera mais receita para a empresa, além disso o seu vol
 <p align="center">
   <img src="precomediodosprodutos.png" >
 </p>
+
+
+<p align="center">
+  <img src="classificandoprodutos.png" >
+</p>
