@@ -4,13 +4,13 @@ layout: default
 
 # Análise Estratégica de Negócio
 
-<p style='text-align: justify;'> Uma pequena Startup que presta serviços de lavanderia deseja construir uma grande rede ao atuar em diversas cidades.  A estratégia da Startup é atuar em cidades pequenas pois ela ainda não consegue competir com grandes empresas já estabelecidas nos grandes centros urbanos. O público-alvo da empresa são clientes que residem em apartamentos pequenos que não possuem espaço para uma máquina de lavar. O funcionamento do negócio consiste na ida de um funcionário até o cliente, onde são coletadas as peças de roupas, após isso as mesmas são lavadas, secadas, passadas e então são devolvidas ao cliente. A empresa também fornece um serviço especial para clientes que estão com mais pressa. 
-
+<p style='text-align: justify;'> Uma pequena Startup que presta serviços de lavanderia deseja construir uma grande rede ao atuar em diversas cidades.  A estratégia da Startup é atuar em cidades pequenas pois ela ainda não consegue competir com grandes empresas já estabelecidas nos grandes centros urbanos. O público-alvo da empresa são clientes que residem em apartamentos pequenos que não possuem espaço para uma máquina de lavar. O funcionamento do negócio consiste na ida de um funcionário até o cliente, onde são coletadas as peças de roupas, após isso as mesmas são lavadas, secadas, passadas e então são devolvidas ao cliente. A empresa também fornece um serviço especial para clientes que estão com mais pressa.
+</p>
 
 <img src= "foto1.jpg">   
 
 
-Atualmente a Startup já possui estabelecimentos em 140 diferentes localidades dos Estados Unidos e recentemente abriu 10 novas lojas. Essas 150 lojas estão dividas em duas regiões de vendas, visando estimular a competição e a busca por melhores resultados dentro da empresa
+<p style='text-align: justify;'> Atualmente a Startup já possui estabelecimentos em 140 diferentes localidades dos Estados Unidos e recentemente abriu 10 novas lojas. Essas 150 lojas estão dividas em duas regiões de vendas, visando estimular a competição e a busca por melhores resultados dentro da empresa
     
 Sendo assim é necessário verificar qual das duas regiões está com uma melhor perfomance de desempenho. Pra isso a direção da Startup definiu que a melhor região deveria superar a outra em pelo menos doiss dos três indicadores de desempenho abaixo:
 </p>
